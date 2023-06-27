@@ -75,6 +75,8 @@ p{
 img{
     display: block;
     margin: auto;
+    min-width: 300px;
+    max-width: 850px;
 }
 img#boneco{
     max-width: 300px;
